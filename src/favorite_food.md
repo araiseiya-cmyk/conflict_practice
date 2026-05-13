@@ -1,3 +1,3 @@
 # favorite food
 
-apple
+臨界レイノルズ
