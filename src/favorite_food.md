@@ -1,3 +1,3 @@
 # favorite food
 
-臨界レイノルズ
+作業
